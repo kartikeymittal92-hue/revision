@@ -1,1 +1,1 @@
-The Kartikey Mittal
+print('The Kartikey Mittal')
